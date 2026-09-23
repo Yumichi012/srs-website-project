@@ -3,7 +3,7 @@
 Project Title: Sign Flow
 
 ## Overview
-Briefly describe what your website is about, its core purpose, and who it is built for. 
+SignFlow is an interactive web-based educational platform designed specifically for individuals, students, and beginners who want to learn American Sign Language (ASL). 
 
 ---
 
