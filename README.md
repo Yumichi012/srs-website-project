@@ -24,7 +24,7 @@ Our project requirements and specifications are stored in this repository:
 
 | Name | Role | GitHub Username |
 | :--- | :--- | :--- |
-| [Team Leader Name] | Project Leader | `@JB Garcia` |
+| [Team Leader Name] | Project Leader | `@Jb Garcia` |
 | [Member 2 Name] | Frontend Developer | `@Abegail Joiece` |
 | [Member 3 Name] | Backend Developer | `@Shyrra Mhay` |
 | [Member 4 Name] | Documentation / Tester | `@Arlan Angel` |
